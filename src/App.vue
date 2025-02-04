@@ -5,7 +5,7 @@ import Counter from './components/Counter.vue'
 
 <template>
   <main>
-    <Counter />
+    <router-view />
   </main>
 </template>
 
